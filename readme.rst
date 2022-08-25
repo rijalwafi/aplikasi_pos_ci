@@ -9,10 +9,12 @@ Aplikasi ini saya buat untuk mengasah skill saya dalam membuat website menggunak
 Data User
 *******************
 
+
 Username | password | akses    |
-adit				adit			superuser
-kasir				kasir			kasir
-gudang			gudang		gudang
+************************************
+1.adit				adit			superuser
+2.kasir				kasir			kasir
+3. gudang			gudang		gudang
 
 *******************
 Dibuat dengan :
