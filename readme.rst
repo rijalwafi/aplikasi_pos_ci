@@ -13,8 +13,10 @@ Data User
 Username | password | akses    |
 ************************************
 1.adit				adit			superuser
+************************************
 2.kasir				kasir			kasir
-3. gudang			gudang		gudang
+************************************
+3.gudang			gudang		gudang
 
 *******************
 Dibuat dengan :
