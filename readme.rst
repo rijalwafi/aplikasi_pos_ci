@@ -2,7 +2,6 @@
 Aplikasi Point Of Sales
 ###################
 
-Aplikasi ini saya buat untuk mengasah skill saya dalam membuat website menggunakan codeigniter 3, mysql dan jquery
 
 
 *******************
